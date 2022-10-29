@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- loadingpage strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="add_your_account_string">ADD YOUR ACCOUNT</string>
+	<string name="find_player_string">FIND PLAYER</string>
+	<string name="vrx_olaro_string">VRX Olaro</string>
+	<string name="diamond_2_string">Diamond 2</string>
+	<string name="persentase_viper_string">57%</string>
+	<string name="kda_viper_string">1.5</string>
+	<string name="persentase_astra_string">70%</string>
+	<string name="kda_astra_string">2.0</string>
+	<string name="persentase_viper_ek1_string">40%</string>
+	<string name="kda_viper_ek1_string">0.9</string>
+	<string name="_30w_10l_75__kda_2_1_string">30W 10L 75% KDA 2.1</string>
+	<string name="your_role_seems_to_controller__string">YOUR ROLE SEEMS TO CONTROLLER!</string>
+	<string name="search_string">Search</string>
+	<string name="agents_ek1_string">Agents</string>
+	<string name="ranking_ek1_string">Ranking</string>
+	<string name="my_profile_ek1_string">My Profile</string>
+	<string name="w___35_51_string">W-35:51</string>
+	<string name="_26_14_8_string">26/14/8</string>
+	<string name="_2_43_string">2.43</string>
+	<string name="_13_10_string">13-10</string>
+	<string name="on_bind_3_days_ago_string">on Bind3 days ago</string>
+	<string name="w___31_10_string">W-31:10</string>
+	<string name="_19_11_13_string">19/11/13</string>
+	<string name="_2_9_string">2.9</string>
+	<string name="_13_9_string">13-9</string>
+	<string name="on_breeze_3_days_ago_string">on Breeze3 days ago</string>
+	<string name="w___43_57_string">W-43:57</string>
+	<string name="_21_13_15_string">21/13/15</string>
+	<string name="_2_26_string">2.26</string>
+	<string name="_14_12_string">14-12</string>
+	<string name="on_ascent_3_days_ago_string">on Ascent3 days ago</string>
+</resources>
